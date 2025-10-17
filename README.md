@@ -11,7 +11,6 @@ This project consists of two main components:
 - **Technology**: Flutter (Dart)
 - **Platform**: Cross-platform (Android, iOS, Web, Windows, macOS)
 - **Description**: A simple CRM cross-platform application built with Flutter
-- **Version**: 1.0.0+1
 
 ### Backend (`/backend`)
 
