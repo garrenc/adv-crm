@@ -26,8 +26,7 @@ This project consists of two main components:
 
 - PHP 8.2+
 - Composer
-- Flutter SDK 3.7.2+
-- Node.js (for Laravel frontend assets)
+- Flutter SDK 3.29.3+
 
 ### Backend Setup
 
@@ -51,9 +50,8 @@ flutter run
 
 This is a basic CRM project structure with:
 
-- Flutter frontend for cross-platform mobile and desktop applications
+- Flutter frontend for cross-platform mobile, desktop and web applications
 - Laravel backend providing API endpoints
-- SQLite database for data storage
 - Standard Laravel authentication and user management
 
 ## License
