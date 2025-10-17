@@ -16,7 +16,6 @@ This project consists of two main components:
 
 - **Technology**: Laravel (PHP)
 - **Framework**: Laravel 12.x
-- **Database**: SQLite (default)
 - **Description**: RESTful API backend for the CRM application
 
 ## Getting Started
