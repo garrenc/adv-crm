@@ -1,4 +1,4 @@
-# Advanced CRM
+# Adv CRM
 
 A cross-platform Customer Relationship Management (CRM) application built with Flutter frontend and Laravel backend.
 
