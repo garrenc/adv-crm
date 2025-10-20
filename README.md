@@ -16,7 +16,7 @@ This project consists of two main components:
 
 - **Technology**: Laravel (PHP)
 - **Framework**: Laravel 12.x
-- **Description**: RESTful API backend for the CRM application
+- **Description**: GraphQL API backend for the CRM application
 
 ## Getting Started
 
